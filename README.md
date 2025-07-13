@@ -23,5 +23,5 @@ I'm **Abdul Karim Sulaeman**, a passionate Fullstack Web Developer who loves bui
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimm1620/karimm1620/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karimm1620/karimm1620/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/karimm1620/karimm1620t/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/karimm1620/karimm1620/output/github-snake.svg" />
 </picture>

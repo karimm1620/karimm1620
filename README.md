@@ -16,7 +16,7 @@ I'm **Abdul Karim Sulaeman**, a passionate Fullstack Web Developer who loves bui
 
 💬 Let's Connect
 
-* Telegram : <a href="https://t.me/Es Krimm" target="_blank">AsmrProg</a>
+* Telegram : <a href="https://t.me/Es Krimm" target="_blank">Karimm</a>
 * Email : <a href="mailto:abdulkarimsulaeman2@gmail.com?subject=Collaboration%20Request" target="_blank">Send Email</a>
 * GitHub : <a href="https://github.com/karimm" target="_blank">Here!</a>
 

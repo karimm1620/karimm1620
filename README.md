@@ -6,14 +6,14 @@
 </div>
 
 <p align="center">
-  Hi, I’m **Karim** — a student and aspiring full-stack developer who loves building modern web experiences, learning new technologies, and turning ideas into useful digital products.
+  Hi, I’m Karim — a student and aspiring full-stack developer who loves building modern web experiences, learning new technologies, and turning ideas into useful digital products.
   My focus is on front-end development, backend systems, UI engineering, and creating projects that feel both clean and functional.
 </p>
 
 <p align="center">
-  <a href="https://www.zickrian.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
+  <a href="https://abdulkarim-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" /></a>
+  <a href="mailto:abdulkarimsulaeman2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abdul-karim-sulaeman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">

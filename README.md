@@ -6,14 +6,13 @@
 </div>
 
 <p align="center">
-  Hi, I’m Karim — a student and aspiring full-stack developer who loves building modern web experiences, learning new technologies, and turning ideas into useful digital products.
-  My focus is on front-end development, backend systems, UI engineering, and creating projects that feel both clean and functional.
+  Hi, I’m Karim — a full-stack & mobile developer who loves building modern web and mobile experiences, learning new technologies, and turning ideas into useful digital products. My focus is on front-end development, backend systems, UI engineering, and cross-platform app development with React Native. Currently open to new opportunities!
 </p>
 
 <p align="center">
   <a href="https://abdulkarim-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" /></a>
   <a href="mailto:abdulkarimsulaeman2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/abdul-karim-sulaeman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/abdulkarimsulaeman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -25,7 +24,7 @@
 
 <h3>📚 About Me</h3>
 
-- 🧑‍💻 Passionate about full-stack development and modern web technologies
+- 🧑‍💻 Passionate about full-stack development, modern web, and apps technologies
 - ⚛️ Frequently work with JavaScript, React.js, Next.js, React Native, TypeScript, and Three.js
 - 🎨 Enjoy drawing and building creative digital experiences
 - 🌌 Interested in astronomy and visually expressive projects
@@ -42,17 +41,17 @@
     <td width="50%" valign="top">
       <strong>🌱 Direction</strong>
       <ul>
-        <li>Clean, modern, and interactive web applications</li>
-        <li>Full-stack systems that are fast, maintainable, and scalable</li>
+        <li>Clean, modern, and interactive web & mobile applications</li>
+        <li>Full-stack systems and cross-platform apps that are fast, maintainable, and scalable</li>
         <li>Creative tech projects that combine code, design, and storytelling</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <strong>🔭 Current Focus</strong>
       <ul>
-        <li>React, Next.js, TypeScript, and frontend architecture</li>
-        <li>Backend development and API integration</li>
-        <li>3D animation, UI motion, and creative coding</li>
+        <li>React, React Native, Next.js, and TypeScript</li>
+        <li>Cross-platform mobile app development & frontend architecture</li>
+        <li>Backend development, API integration, and UI motion</li>
       </ul>
     </td>
   </tr>
@@ -66,6 +65,7 @@
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=8DBA8E" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-1B4332?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Vite-588157?style=for-the-badge&logo=vite&logoColor=F6E7B7" alt="Vite" />
+<img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=8DBA8E" alt="Expo" />
 <img src="https://img.shields.io/badge/React_Native-344E41?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
 <img src="https://img.shields.io/badge/Python-1B4332?style=for-the-badge&logo=python&logoColor=F6E7B7" alt="Python" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-1F4D3A?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -74,6 +74,7 @@
 <img src="https://img.shields.io/badge/CSS3-52796F?style=for-the-badge&logo=css3&logoColor=F6E7B7" alt="CSS3" />
 <img src="https://img.shields.io/badge/HTML5-52796F?style=for-the-badge&logo=html5&logoColor=F6E7B7" alt="HTML5" />
 <img src="https://img.shields.io/badge/Golang-344E41?style=for-the-badge&logo=go&logoColor=F6E7B7" alt="Golang" />
+<img src="https://img.shields.io/badge/Kotlin-386641?style=for-the-badge&logo=kotlin&logoColor=F6E7B7" alt="Kotlin" />
 <img src="https://img.shields.io/badge/GSAP-6B8E6E?style=for-the-badge&logo=greensock&logoColor=F6E7B7" alt="GSAP" />
 <img src="https://img.shields.io/badge/Convex-5C7C67?style=for-the-badge&logo=convex&logoColor=F6E7B7" alt="Convex" />
 <img src="https://img.shields.io/badge/Supabase-40916C?style=for-the-badge&logo=supabase&logoColor=F6E7B7" alt="Supabase" />
